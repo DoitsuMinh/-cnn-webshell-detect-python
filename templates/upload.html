@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>cnn-webshell-detect</title>
+</head>
+<body>
+  <form action="{{ url_for('receive_file') }}" method="POST" enctype="multipart/form-data">
+    <p><input type="file" name="file[]" multiple="true"></p>
+    <p><input type="submit" value="add"></p>
+  </form>
+</body>
+</html>

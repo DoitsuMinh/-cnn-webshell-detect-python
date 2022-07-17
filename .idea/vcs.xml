@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/argon-dashboard-angular-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_dir/phpbb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_dir/phpmyadmin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_dir/phppgadmin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/check_dir/smarty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/black/PHP-backdoors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/black/PHP-backdoors/Deobfuscated/b374kShell/b374k" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/black/php-webshells" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/black/webshell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/black/webshell-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/black/webshellSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/black/webshells" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/white/WordPress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/white/phpmyadmin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dataset/white/phppgadmin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yararules-python" vcs="Git" />
+  </component>
+</project>

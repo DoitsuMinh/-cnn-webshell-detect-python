@@ -1,0 +1,10 @@
+
+[submodule "dataset/black/php-webshells"]
+	path = dataset/black/php-webshells
+	url = https://github.com/JohnTroony/php-webshells.git
+[submodule "dataset/black/webshell-sample"]
+	path = dataset/black/webshell-sample
+	url = https://github.com/ysrc/webshell-sample
+[submodule "dataset/white/WordPress"]
+	path = dataset/white/WordPress
+	url = https://github.com/WordPress/WordPress
